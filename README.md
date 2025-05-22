@@ -6,7 +6,7 @@ Guiding question: Are SOEs treated differently from private firms by rating agen
 
 # Project Structure
 - RawDataFromBloomberg: Excel data exports from Bloomberg
-- Various csv files containing additional information 
+- "Other Data" folder containing the following files: Book3.csv(list of the companies used for OpenAI API), df_countriesPD.xslx(Probabilities of defaults of countries), df_soe.csv(Result from the OpenAI API, is it a SOE? yes or no), government_ownership_progress.csv(Test the reproductibilty of the OpenAI API code), MachineLearning.csv(used to convert the 22 ratings into 6 categories)
 - Final_Code.ipynb: Main notebook (cleaning, modeling, evaluation)
 
 # Procedure
