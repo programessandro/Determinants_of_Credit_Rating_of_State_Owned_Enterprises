@@ -1,0 +1,23 @@
+﻿Moody’s,S&P,Category,,,,,
+Aaa,AAA,Prime,22,,Aaa,AAA,High grade
+Aa1,AA+,High grade,21,,Aa1,AA+,High grade
+Aa2,AA,High grade,20,,Aa2,AA,High grade
+Aa3,AA-,High grade,19,,Aa3,AA-,High grade
+A1,A+,Upper medium grade,18,,A1,A+,Upper medium grade
+A2,A,Upper medium grade,17,,A2,A,Upper medium grade
+A3,A-,Upper medium grade,16,,A3,A-,Upper medium grade
+Baa1,BBB+,Lower medium grade,15,,Baa1,BBB+,Lower medium grade
+Baa2,BBB,Lower medium grade,14,,Baa2,BBB,Lower medium grade
+Baa3,BBB-,Lower medium grade,13,,Baa3,BBB-,Lower medium grade
+Ba1,BB+,"Non-investment grade speculative (""Junk"")",12,,Ba1,BB+,"Non-investment grade speculative (""Junk"")"
+Ba2,BB,Non-investment grade speculative,11,,Ba2,BB,Non-investment grade speculative
+Ba3,BB-,Non-investment grade speculative,10,,Ba3,BB-,Non-investment grade speculative
+B1,B+,Highly speculative,9,,B1,B+,Highly speculative
+B2,B,Highly speculative,8,,B2,B,Highly speculative
+B3,B-,Highly speculative,7,,B3,B-,Highly speculative
+Caa1,CCC+,Substantial risk,6,,Caa1,CCC+,Substantial risk
+Caa2,CCC,Extremely speculative,5,,Caa2,CCC,Substantial risk
+Caa3,CCC-,Default imminent with little prospect for recovery,4,,Caa3,CCC-,Substantial risk
+Ca,CC,Default imminent,3,,Ca,CC,Substantial risk
+C,C,In default,2,,C,C,Substantial risk
+,D,In default,1,,,,
